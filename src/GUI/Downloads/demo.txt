@@ -1,0 +1,1 @@
+The main goal of the project is to create an application which connects to an online cloud storage platform and can upload files while encrypting them and as you download the file it should decrypt the encrypted file.
