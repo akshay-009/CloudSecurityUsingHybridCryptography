@@ -1,6 +1,4 @@
 # Cloud-Encryption
-CS3031 - Project 2
-
 
 The aim of this project is to develop a secure cloud storage application for Dropbox, Box, Google
 Drive, Office365 etc. For example, your application will secure all files that are uploaded to the cloud,
@@ -18,4 +16,4 @@ Then you must run `main.exe`
 
 If you want the UI version, again same as above with the client secret. Go into `src/GUI` and run `main.exe`
 
-![alt text](https://github.com/sasunts/Cloud-Encryption/blob/master/UI.PNG)
+
